@@ -1,0 +1,96 @@
+{
+  "animal": {
+    "nome": "Animal",
+    "palavras": [
+      "Elefante", "Jacaré", "Pinguim", "Borboleta",
+      "Girafa", "Leopardo", "Rinoceronte", "Canguru",
+      "Baleia", "Foca", "Chimpanzé", "Falcão", "Esquilo",
+      "Tucano", "Sapo", "Leão", "Tigre", "Panda", "Lobo",
+      "Gorila", "Macaco", "Zebra", "Orangotango", "Tubarão",
+      "Polvo", "Caracol", "Libélula", "Tartaruga", "Peixe-palhaço",
+      "Gavião", "Aranha", "Camaleão", "Texugo", "Guaxinim", "Formiga"
+    ]
+  },
+
+  "filme": {
+    "nome": "Filme",
+    "palavras": [
+      "Avatar", "Pulp Fiction", "Star Wars", "Forrest Gump",
+      "Matrix", "Titanic", "Jurassic Park", "O Poderoso Chefão",
+      "Interestelar", "Gladiador", "Casablanca", "O Senhor dos Anéis",
+      "A Origem", "A Viagem de Chihiro", "La La Land", "Cidade de Deus",
+      "O Iluminado", "Blade Runner", "O Silêncio dos Inocentes", "Halloween",
+      "Sexta-feira 13", "A Hora do Pesadelo", "O Massacre da Serra Elétrica",
+      "Clube da Luta", "O Resgate do Soldado Ryan", "O Grande Truque",
+      "Jogos Mortais", "Corra", "Fuja", "Nós", "O Poço", "Pânico",
+      "De Volta para o Futuro", "A Casa de Cera", "Coraline"
+    ]
+  },
+
+  "serie": {
+    "nome": "Série",
+    "palavras": [
+      "La Casa de Papel", "Avatar a Lenda de Aang", "The Witcher",
+      "Black Mirror", "The Mandalorian", "Os Simpsons", "The Office",
+      "Dark", "The Big Bang Theory", "Better Call Saul", "The Walking Dead",
+      "Mindhunter", "Arrow", "Supergirl", "Smallville", "Loki", "Invencível",
+      "Breaking Bad", "Stranger Things", "Game of Thrones", "The Last of Us",
+      "Vikings", "The Umbrella Academy", "The Flash", "Friends", "The Chosen",
+      "Cobra Kai", "O Incrível Mundo de Gumball", "The Good Doctor", "Moon Knight",
+      "Peaky Blinders", "Grey's Anatomy", "The Boys", "Brooklyn Nine-Nine",
+      "The Good Place", "WandaVision", "Todo Mundo Odeia o Chris"
+    ]
+  },
+
+  "fruta": {
+    "nome": "Fruta",
+    "palavras": [
+      "Framboesa", "Maracujá", "Melão", "Ameixa", "Mamão",
+      "Maçã", "Abacaxi", "Banana", "Morango", "Laranja",
+      "Jabuticaba", "Pera", "Cereja", "Abacate", "Coco",
+      "Tangerina", "Acerola", "Manga", "Pinha", "Amora",
+      "Kiwi", "Pêssego", "Uva", "Melancia", "Limão",
+      "Jenipapo", "Mangaba", "Pequi", "Caju", "Figo",
+      "Romã", "Açaí", "Amêndoa", "Bergamota", "Cacau"
+    ]
+  },
+
+  "pais": {
+    "nome": "País",
+    "palavras": [
+      "Brasil", "Japão", "Canadá", "Austrália", "Estados Unidos",
+      "Rússia", "Índia", "Itália", "França", "China", "Argentina",
+      "México", "Alemanha", "Reino Unido", "Espanha", "Coreia do Sul",
+      "África do Sul", "Suécia", "Turquia", "Egito", "Colômbia", "Noruega",
+      "Tailândia", "Peru", "Portugal", "Grécia", "Nova Zelândia", "Holanda",
+      "Dinamarca", "Irlanda", "Coreia do Norte", "Bélgica", "Irã", "Angola", "Equador"
+    ]
+  },
+
+  "esporte": {
+    "nome": "Esporte",
+    "palavras": [
+      "Boxe", "Esqui", "Rugby", "Hóquei no Gelo", "Surfe",
+      "Futebol", "Tênis", "Natação", "Basquete", "Handebol",
+      "Vôlei", "Atletismo", "Golfe", "Ciclismo", "Tênis de Mesa",
+      "Automobilismo", "Softbol", "Polo Aquático", "Snowboard",
+      "Escalada", "Curling", "Arco e Flecha", "Salto Ornamental",
+      "Levantamento de Peso", "Triatlo", "Boliche", "Esgrima",
+      "Badminton", "Skate", "MMA", "Patinação Artística",
+      "Karatê", "Handebol de Praia", "Cricket", "Polo"
+    ]
+  },
+
+  "informatica": {
+    "nome": "Informática",
+    "palavras": [
+      "Programação Orientada a Objeto", "Javascript", "Python",
+      "Java", "Banco de Dados", "Servidor", "HTML", "Excel", "Word",
+      "Frontend", "Sistema Operacional", "Backend", "API", "Git", "Github",
+      "Rede", "Internet", "Computador", "Programação", "Algoritmo", "Firewall",
+      "Interface", "Aplicativo", "Backup", "Antivírus", "Wifi", "Compilação",
+      "Linguagem de Programação", "Bit", "Nuvem", "Criptografia", "Hardware",
+      "Software", "Malware", "Bluetooth"
+    ]
+  }
+}

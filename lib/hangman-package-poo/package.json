@@ -1,0 +1,13 @@
+{
+  "name": "jogo-da-forca-pacote",
+  "version": "1.0.0",
+  "description": "Pacote contendo todos os módulos que tornam possível um jogo da forca.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Ian dos Santos e Gabriel Rodrigues",
+  "license": "ISC"
+}
